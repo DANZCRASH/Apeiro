@@ -2,17 +2,17 @@
   "users": [
     {
       "whatsappNumber": "0881023561381",
-      "password": "apoiro"
+      "password": "apeiro"
     },
     {
-      "whatsappNumber": "083846147781",
+      "whatsappNumber": "0881023561381",
       "password": "123"
     }
   ],
   "approvedUsers": [
     {
-      "whatsappNumber": "083846147781",
-      "token": "apoiro123"
+      "whatsappNumber": "0881023561381",
+      "token": "apeiro123"
     },
     {
       "whatsappNumber": "083846147781",
