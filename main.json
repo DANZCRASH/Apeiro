@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "whatsappNumber": "0881023561381",
+      "password": "apoiro"
+    },
+    {
+      "whatsappNumber": "083846147781",
+      "password": "123"
+    }
+  ],
+  "approvedUsers": [
+    {
+      "whatsappNumber": "083840073203",
+      "token": "apoiro123"
+    },
+    {
+      "whatsappNumber": "083840073203",
+      "token": "apoiro123"
+    }
+  ]
+}
